@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "hairball"
   gem.homepage = "http://github.com/daytonn/hairball"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{A pile of shit someone else wrote that you now have to maintain}
+  gem.description = %Q{http://www.confreaks.com/videos/860-railsconf2012-keynote-simplicity-matters}
   gem.email = "daytonn@gmail.com"
   gem.authors = ["Dayton Nolan"]
   # dependencies defined in Gemfile
